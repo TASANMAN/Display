@@ -68,3 +68,44 @@
   margin-top: 8px;
   border-radius: 15px;
 }
+
+.duplo {
+  display: inline-block;
+  height: 128px;
+  width: 290px;
+  border-radius: 10px;
+  background-color: #1c3041;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+.hermano {
+  display: inline-block;
+  width: 110px;
+  height: 110px;
+  margin-left: 13px;
+  margin-right: 20px;
+  margin-top: 10px;
+  border-radius: 15px;
+}
+
+.duplo2 {
+  display: inline-block;
+  height: 128px;
+  width: 292px;
+  border-radius: 10px;
+  background-color: #1c3041;
+  margin-top: 20px;
+  margin-left: -300px;
+  margin-bottom: -6px;
+}
+
+.hermano2 {
+  display: inline-block;
+  width: 110px;
+  height: 110px;
+  margin-left: 13px;
+  margin-right: 20px;
+  margin-top: 10px;
+  border-radius: 15px;
+}
